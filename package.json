@@ -1,0 +1,29 @@
+{
+  "name": "Noco-gallery",
+  "version": "1.0.0",
+  "description": "A photo gallery with Express, Vue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xivid2/Paco-Gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xivid2/Paco-Gallery/issues"
+  },
+  "homepage": "https://github.com/Xivid2/Paco-Gallery#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

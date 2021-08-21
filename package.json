@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Xivid2/Paco-Gallery#readme",
   "dependencies": {
+    "@vue/cli": "^4.5.13",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^5.13.5"

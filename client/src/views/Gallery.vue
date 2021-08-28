@@ -1,14 +1,14 @@
 <template>
-    <Gallery />
+    <Images />
 </template>
 
 <script>
-import Gallery from "../components/Gallery"
+import Images from "../components/Images"
 
 export default {
     name: "Gallery",
     components: {
-        Gallery
+        Images
     }
 }
 </script>
